@@ -1,0 +1,9 @@
+{
+  "short_name": "Portfolio",
+  "name": "Bruno Favero Desenvolvedor Web",
+  "public_url": "https://faverowebdev.tech",
+  "start_url": "https://faverowebdev.tech",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
